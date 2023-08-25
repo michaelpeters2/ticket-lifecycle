@@ -25,8 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
-Intake:
+<h2>Intake</h2>
 <p>
   
 ![image](https://github.com/michaelpeters2/ticket-lifecycle/assets/141062110/ec121d7e-7164-4b0e-9138-c9224d9f696f)
@@ -56,7 +55,8 @@ Log out of osTicket and log back in as a Help Desk Professional (Jane.Doe)
   - Username: jane.doe
   - Password: Password1
 
-Assignment and Communication
+Assignment and Communication:
+- 
 <p>
   
 ![image](https://github.com/michaelpeters2/ticket-lifecycle/assets/141062110/f20a2780-f26a-4d3b-8348-0eb1c87d08f0)
@@ -70,12 +70,19 @@ Begin to update Karen's first ticket submission as Jane the admin.
   - Assign ticket to yourself (Jane).
   - Update Department: System Administrators
   - Update SLA Plan: Sev-A -> Business Impacting Event
-</p>
+
+Working the Issue:
+-
 
   ![image](https://github.com/michaelpeters2/ticket-lifecycle/assets/141062110/2312d758-6c53-4be3-89cd-34ec64944214)
 
 </p>
+
+
 Send your response to let Karen know you are collaborating with other IT members to fix the issue.
+
+Resolution:
+-
 
 Then, update Karen letting her know you have resolved the issue.
 
@@ -92,3 +99,24 @@ Moving on to Ken's ticket:
 
 ![image](https://github.com/michaelpeters2/ticket-lifecycle/assets/141062110/da85b873-d24f-4fa4-876f-8fb2c90ec732)
 
+  - Switch user to John.Doe
+  - Password: Password1
+
+![image](https://github.com/michaelpeters2/ticket-lifecycle/assets/141062110/2614cb72-e70d-45cc-8621-9f9cb424334b)
+
+  - Respond with fix to issue as John.
+  - Log out as John, and you can close the ticket as the admin (yourself or Jane.Doe account)
+  - John does not have permissions to close ticket on his account.
+
+
+Karen's 2nd Ticket:
+
+  - Prioity: Normal
+  - Department: Support
+  - SLA Plan: Sev-C
+
+![image](https://github.com/michaelpeters2/ticket-lifecycle/assets/141062110/70e51221-dbc3-4c52-a0a5-ce3b1d169501)
+  
+  - Post reply and close ticket.
+
+Congrats! All tickets should be closed!
