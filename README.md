@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Ticket Lifecycle: Creating and Working Tickets</h1>
+This tutorial outlines the lifecycle of a ticket from its intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -20,12 +20,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
+- Creating Tickets
 - Assignment and Communication
 - Working the Issue
 - Resolution
 
-<h2>Intake</h2>
+<h2>Creating Tickets</h2>
 <p>
   
 ![image](https://github.com/michaelpeters2/ticket-lifecycle/assets/141062110/ec121d7e-7164-4b0e-9138-c9224d9f696f)
@@ -50,8 +50,8 @@ Create new ticket
   - Help Topic: General Inquiry
   - Fill in Summary and Details
 </p>
-<br />
 Log out of osTicket and log back in as a Help Desk Professional (Jane.Doe)
+
   - Username: jane.doe
   - Password: Password1
 
